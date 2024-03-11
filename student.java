@@ -11,6 +11,8 @@ public class student{
         System.out.println("Student registred courses are:");
         for(int i=0;i<course.length;i++)
         {
+            System.out.println(course[i]);
+
     }
 }
 }
