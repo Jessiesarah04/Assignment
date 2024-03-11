@@ -1,5 +1,5 @@
 public class Stud_Course extends student {
-        void course_det()
+        void course_dett()
     {
         String[] subjects = {"DevOps", "Machine Learning", "C#"};
         int[][] marks = {
@@ -19,7 +19,7 @@ public class Stud_Course extends student {
     public static void main(String args[])
     {
         Stud_Course s1 = new Stud_Course();
-        s1.stud_det();
-        s1.course_det();
+        s1.stud_dett();
+        s1.course_dett();
 }
 }
