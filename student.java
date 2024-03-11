@@ -3,6 +3,7 @@ public class student{
     {
         String name = "JessieSarah";
         String prg = "BCA";
+    
         String dept = "MCA";
         String[] course = {"DevOps", "Machine Learning", "C#"};
         System.out.println("Name of the student is = "+name);
